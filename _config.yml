@@ -28,11 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-<<<<<<< HEAD
-theme: minima
-=======
-theme: jekyll-theme-modernist
->>>>>>> cca194afd0faf16007d6743a830b6732f1b104bd
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
